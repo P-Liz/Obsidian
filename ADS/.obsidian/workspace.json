@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "e7a6c3fb11fbaedc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6061e6ed91bc2384",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d46bb0889364fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMBIENTES COMPUTACIONAIS E CONECTIVIDADE/1- Fundamentos de sistemas operacionais modernos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb0983ee79f3ed6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMBIENTES COMPUTACIONAIS E CONECTIVIDADE/2. Redes de computadores, tipos de redes, topologias lógica e física e cabeamento estruturado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f56548439b576af",
+    "type": "split",
+    "children": [
+      {
+        "id": "28af9bf7a7ba70b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe70827b80d0da0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdae2df0f0b397c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fccb1ae5fc3395c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "22309336158f8a1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "680587956a5c983e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "820728dc0199f141",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AMBIENTES COMPUTACIONAIS E CONECTIVIDADE/1- Fundamentos de sistemas operacionais modernos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b9985f683390b1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AMBIENTES COMPUTACIONAIS E CONECTIVIDADE/1- Fundamentos de sistemas operacionais modernos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3268cb4647e7f716",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91d00ed9f9d4e4b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AMBIENTES COMPUTACIONAIS E CONECTIVIDADE/1- Fundamentos de sistemas operacionais modernos.md"
+              }
+            }
+          },
+          {
+            "id": "f5b5cbeeec49fa10",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "11dc7f2faa9ccd33",
+            "type": "leaf",
+            "state": {
+              "type": "workbench-items",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "6d46bb0889364fde",
+  "lastOpenFiles": [
+    "AMBIENTES COMPUTACIONAIS E CONECTIVIDADE/2. Redes de computadores, tipos de redes, topologias lógica e física e cabeamento estruturado.md",
+    "AMBIENTES COMPUTACIONAIS E CONECTIVIDADE/1- Fundamentos de sistemas operacionais modernos.md",
+    "Pasted image 20230214212119.png",
+    "Pasted image 20230214213452.png",
+    "Pomodoro Log.md",
+    "Pasted image 20230214212616.png",
+    "Outros/16.02 às 19h - Encontro de Ambientação para Graduação.md",
+    "EAI Summit/13.02.2023 às 19h - Palestra - Da universidade ao prêmio Chef do ano.md",
+    "EAI Summit/13.02.2023 às 9h - Palestra com Dr. Gustavo Cabral.md",
+    "AMBIENTES COMPUTACIONAIS E CONECTIVIDADE/Introdução.md"
+  ]
+}
